@@ -1,4 +1,4 @@
 gibbs-pcfg-2014
 ===============
 
-Code and instructions for replicating experiments will be posted soon.
+Code for PCFG experiments for Sun, Mielens, and Baldridge, EMNLP 2014
